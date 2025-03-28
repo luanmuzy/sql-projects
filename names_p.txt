@@ -1,0 +1,12 @@
+1 Criação de um banco de dados simples
+2 Consulta de um conjunto de dados de vendas
+2.1 Consulta de um conjunto de dados
+3 Criação de relatórios mensais
+4 Análise de funil de vendas
+5 Segmentação de clientes com base em comportamentos de compra
+6 Análise de vendas ao longo do tempo
+7 Melhoramento de performance em consultas complexas
+8 Criação de um dashboard interativo com SQL
+9 Preparação de dados para modelos de Machine Learning
+10 Implementação de um modelo preditivo
+
