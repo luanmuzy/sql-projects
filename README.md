@@ -7,6 +7,6 @@
 
 <<<<<<< HEAD
 =======
-1. [01 SELECT Statement](https://github.com/luanmuzy/sql-projects/tree/main/01%SELECT%Statement)<br>
+1. [01 SELECT Statement](https://github.com/luanmuzy/sql-projects/tree/main/01-SELECT-Statement)<br>
 >>>>>>> 66a6885 (Adiciona pasta '01 SELECT Statement' com exemplo de SELECT)
 
