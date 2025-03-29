@@ -6,6 +6,6 @@
 
 
 1. [01 SELECT Statement](https://github.com/luanmuzy/sql-projects/tree/main/01-SELECT-Statement)<br>
-2. [02-SELECT DISTINCT Statement](https://github.com/luanmuzy/sql-projects/tree/main/02-SELECT-DISTINCT-Statement)
+2. [02 SELECT DISTINCT Statement](https://github.com/luanmuzy/sql-projects/tree/main/02-SELECT-DISTINCT-Statement)
 
 
